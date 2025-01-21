@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+tensorflow>=2.0.0
+numpy
+argparse
+google-cloud-storage

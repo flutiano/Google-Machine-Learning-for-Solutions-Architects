@@ -1,0 +1,5 @@
+functions-framework==3.*
+Pillow
+numpy
+google-cloud-aiplatform
+google-cloud-storage
